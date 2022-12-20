@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "web2-0 fourth homework"
+version = "0.1.0"
+license="MIT"
+description = ""
+authors = ["SergiiOshmarin <113200315+SergiiOshmarin@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
